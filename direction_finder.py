@@ -17,9 +17,7 @@ print(powers[:20])  # Show first 20 values
 
 import matplotlib.pyplot as plt
 
-# powers list comes from your previous read_power_csv function
-# if you haven’t already, make sure this line runs:
-# powers = read_power_csv('/home/kyle/test_scan.csv')
+# powers list comes from the previous read_power_csv function
 
 # simulate angles assuming 360 degrees total, evenly spaced
 num_values = len(powers)
