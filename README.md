@@ -16,6 +16,11 @@ Changed to 2 meter band (144.5000)
 
 <img width="261" height="182" alt="image" src="https://github.com/user-attachments/assets/ca45a401-72a5-4f79-9fc0-9b79668b4f85" />
 
+
+<img width="856" height="589" alt="image" src="https://github.com/user-attachments/assets/169b47c2-f9f7-44b5-a28b-7d13753abb89" />
+
+<img width="459" height="654" alt="image" src="https://github.com/user-attachments/assets/f4191b68-cf7e-4965-b8ee-e4cb5ff389bc" />
+
 Initially using In-phase Quadrature data (IQ), too complex so switched the RTL_power (uses driver)
 def read_power_csv(filename):
     power_values = []
