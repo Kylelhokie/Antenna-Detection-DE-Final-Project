@@ -49,5 +49,5 @@ How this works is basically with the function read_power_csv it gives a path to 
     Continue, which basically just makes it so that there has to be at least six rows in order to move on. I then filter valid power levels between -120 and 0 for realistic values and to filter out noise. if -120 < power < 0:
     power_values.append(power)
 
-Antenna dipole length measurement for 144.5000 = 3.3 feet (1 meter). 
+Antenna dipole length measurement for 144.5000 = 3.3 feet (1 meter). Length of the antenna has to match the length of the wavelength
 
