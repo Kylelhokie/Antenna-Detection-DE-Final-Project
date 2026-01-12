@@ -21,6 +21,8 @@ Changed to 2 meter band (144.5000)
 
 <img width="459" height="654" alt="image" src="https://github.com/user-attachments/assets/f4191b68-cf7e-4965-b8ee-e4cb5ff389bc" />
 
+added moving average to Fast Fourier Transform data to get rid of noise, assigned angles and the direction. 
+
 Initially using In-phase Quadrature data (IQ), too complex so switched the RTL_power (uses driver)
 def read_power_csv(filename):
     power_values = []
