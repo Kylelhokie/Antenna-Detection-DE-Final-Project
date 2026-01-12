@@ -4,6 +4,9 @@ A directional antenna that is able to rotate and detect the strongest signal
 
 <img width="727" height="371" alt="image" src="https://github.com/user-attachments/assets/23f923ca-5684-4909-aadf-074c5f5c3104" />
 
+<img width="1381" height="703" alt="image" src="https://github.com/user-attachments/assets/7682c29f-8d4e-40df-8a5d-be86f8d81af7" />
+
+
 <img width="650" height="470" alt="image" src="https://github.com/user-attachments/assets/f80a21d8-8b43-4b48-b5bf-8882df9f89d4" />
 
 Was supposed to use NOAA signal, would not work because I am not actually transmitting anything (162.45000 MHz)
